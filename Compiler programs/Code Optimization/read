@@ -1,0 +1,1 @@
+Involves removing all unneccessary loops, loop invariants, variables etc to optimise the code.
