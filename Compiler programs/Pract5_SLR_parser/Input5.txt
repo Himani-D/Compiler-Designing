@@ -1,0 +1,6 @@
+S -> AxB
+S -> Bc
+A -> yA
+A -> z
+B -> xB
+B -> @
