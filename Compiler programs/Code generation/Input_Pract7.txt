@@ -1,0 +1,10 @@
+for(int i=0;i<10;i++){
+    if(i%2==0){
+        x+=1
+        printf("This is even");
+    }
+    else{
+        y-=1
+        printf("This is even");
+    }
+}
