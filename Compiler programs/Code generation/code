@@ -1,0 +1,4 @@
+a = b + c
+d = e * f
+t = g + a
+r = d + t
