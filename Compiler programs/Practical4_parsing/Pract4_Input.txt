@@ -1,0 +1,8 @@
+S -> NP VP
+NP -> P | PN | D N
+VP -> V NP
+N -> championship | ball | toss
+V -> is | want | won | played
+P -> me | I | you
+PN -> India | Australia | Steve | John
+D -> the | a | an 
