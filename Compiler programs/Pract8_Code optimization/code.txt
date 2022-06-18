@@ -1,0 +1,8 @@
+a = 2
+b = x^2
+c = x
+d = a + 5
+e = b + c
+f = c * c
+g = d + e
+h = e * f
